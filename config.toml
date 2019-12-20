@@ -1,4 +1,0 @@
-baseURL = "https://security-forge.github.io/blog"
-languageCode = "en-us"
-title = "Security Forge blog"
-theme = "m10c"

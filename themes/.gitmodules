@@ -1,3 +1,0 @@
-[submodule "themes/dusk"]
-	path = themes/dusk
-	url = git@github.com:gyorb/hugo-dusk.git
