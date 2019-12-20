@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:SecurityForge/security-forge.github.io.git
+	branch = master
